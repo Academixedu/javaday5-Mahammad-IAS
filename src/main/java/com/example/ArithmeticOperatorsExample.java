@@ -1,12 +1,18 @@
 package com.example;
 
+/**
+ * ArithmeticOperatorsExample
+ */
 public class ArithmeticOperatorsExample {
+
     public static void main(String[] args) {
-        int a = 10;
-        int b = 5;
-        int sum = a _____ b;
-        int difference = a _____ b;
-        System.out.println("Sum: " + sum);
-        System.out.println("Difference: " + difference);
+        int a,b;
+        a=2;
+        b=5;
+        System.out.println(a+b);
+        System.out.println(a-b);
+        System.out.println(a*b);
+        System.out.println(a%b);
+        System.out.println(a/b);
     }
 }
