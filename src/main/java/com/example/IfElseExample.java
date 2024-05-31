@@ -5,7 +5,7 @@ public class IfElseExample {
         int number = 10;
         if (number>0) {
             System.out.println("Number is positive");
-        } else {
+        } else{
             System.out.println("Number is negative");
         }
     }

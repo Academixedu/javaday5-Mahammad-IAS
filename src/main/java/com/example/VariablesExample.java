@@ -5,6 +5,6 @@ public class VariablesExample {
         int age = 25;
         String name = "John";
         System.out.println("Name: " + name);
-        System.out.println("Age: " + age);
+        System.out.println ("Age: " + age);
     }
 }
